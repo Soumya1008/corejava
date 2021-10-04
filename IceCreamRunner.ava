@@ -1,0 +1,16 @@
+// Ice Cream
+class IceCreamRunner{
+
+
+public static void main(String[] desserts)
+{
+
+//class-type ref-var-
+//instance var
+new ref=new IceCream();
+String ref.flavour;
+System.out.println(f1);
+3
+}
+
+}

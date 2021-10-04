@@ -1,0 +1,24 @@
+class Chat01{
+
+	String name;
+	byte no_of_plate;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

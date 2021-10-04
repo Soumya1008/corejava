@@ -1,0 +1,13 @@
+class Chat01Runner{
+
+		public static void main(String[] args){
+		
+		Chat01 hey=new Chat01() ;
+		String order=hey.name;
+		System.out.println(order);
+		
+		
+		
+		}
+
+}

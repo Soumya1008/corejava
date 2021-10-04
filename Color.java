@@ -1,0 +1,5 @@
+enum Color{
+
+    WHITE,PINK,GREEN,BROWN,BLACK,YELLOW,ORANGE;
+
+}
