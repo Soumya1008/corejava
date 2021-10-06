@@ -1,0 +1,4 @@
+enum TicketType{
+
+ONLINE,OFFLINE;
+}
