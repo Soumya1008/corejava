@@ -1,12 +1,12 @@
-class Country{
+class Vender{
 
 String name;
-String code;
+float salary;
 
 void displayDetails()
 {
 System.out.println(this.name);
-System.out.println(this.code);
+System.out.println(this.salary);
 
 }
 
